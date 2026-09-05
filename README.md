@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -28,14 +29,17 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
