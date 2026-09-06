@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
