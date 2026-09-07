@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -53,5 +54,10 @@
 ## Math
 |  |
 | ------- |
+| [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
