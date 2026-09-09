@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
