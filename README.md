@@ -34,16 +34,19 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
