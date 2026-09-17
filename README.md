@@ -9,12 +9,14 @@
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Stack
 |  |
@@ -108,4 +111,12 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
