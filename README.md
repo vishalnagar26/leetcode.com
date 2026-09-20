@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
