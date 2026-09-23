@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
@@ -77,6 +78,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/vishalnagar26/leetcode.com/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
