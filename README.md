@@ -12,6 +12,7 @@
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
