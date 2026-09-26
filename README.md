@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/vishalnagar26/leetcode.com/tree/master/0065-valid-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
