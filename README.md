@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/vishalnagar26/leetcode.com/tree/master/0062-unique-paths) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Stack
@@ -74,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vishalnagar26/leetcode.com/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/vishalnagar26/leetcode.com/tree/master/0367-valid-perfect-square) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -119,6 +121,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vishalnagar26/leetcode.com/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
