@@ -28,6 +28,7 @@
 | [0065-valid-number](https://github.com/vishalnagar26/leetcode.com/tree/master/0065-valid-number) |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@
 | [0234-palindrome-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -53,6 +55,7 @@
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -171,4 +174,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
