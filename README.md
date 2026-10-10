@@ -11,6 +11,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0015-3sum) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/vishalnagar26/leetcode.com/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,4 +185,9 @@
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
