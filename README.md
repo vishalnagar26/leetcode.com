@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/vishalnagar26/leetcode.com/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
@@ -94,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vishalnagar26/leetcode.com/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vishalnagar26/leetcode.com/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/vishalnagar26/leetcode.com/tree/master/0367-valid-perfect-square) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
@@ -139,6 +141,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vishalnagar26/leetcode.com/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 ## Combinatorics
 |  |
