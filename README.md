@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
