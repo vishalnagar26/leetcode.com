@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -30,6 +31,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/vishalnagar26/leetcode.com/tree/master/0065-valid-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -199,4 +201,12 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
