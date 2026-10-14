@@ -105,6 +105,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
@@ -196,6 +197,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
