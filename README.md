@@ -14,6 +14,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalnagar26/leetcode.com/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalnagar26/leetcode.com/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalnagar26/leetcode.com/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -181,10 +183,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalnagar26/leetcode.com/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalnagar26/leetcode.com/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
