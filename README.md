@@ -81,18 +81,21 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
@@ -120,6 +123,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
 |  |
@@ -208,6 +212,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -224,4 +229,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
