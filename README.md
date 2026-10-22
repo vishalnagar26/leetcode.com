@@ -44,6 +44,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalnagar26/leetcode.com/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
