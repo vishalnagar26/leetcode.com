@@ -45,6 +45,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3871-count-commas-in-range-ii) |
