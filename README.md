@@ -11,6 +11,7 @@
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
+| [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalnagar26/leetcode.com/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -167,6 +169,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/vishalnagar26/leetcode.com/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
 ## Combinatorics
 |  |
 | ------- |
@@ -238,4 +241,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
