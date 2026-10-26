@@ -13,6 +13,7 @@
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalnagar26/leetcode.com/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalnagar26/leetcode.com/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -199,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
