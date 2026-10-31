@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/vishalnagar26/leetcode.com/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/vishalnagar26/leetcode.com/tree/master/0198-house-robber) |
+| [0303-range-sum-query-immutable](https://github.com/vishalnagar26/leetcode.com/tree/master/0303-range-sum-query-immutable) |
 | [0835-image-overlap](https://github.com/vishalnagar26/leetcode.com/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
@@ -185,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishalnagar26/leetcode.com/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishalnagar26/leetcode.com/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishalnagar26/leetcode.com/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
