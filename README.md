@@ -26,6 +26,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalnagar26/leetcode.com/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishalnagar26/leetcode.com/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -133,6 +134,7 @@
 | [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalnagar26/leetcode.com/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalnagar26/leetcode.com/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
