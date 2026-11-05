@@ -16,6 +16,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalnagar26/leetcode.com/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -152,12 +153,14 @@
 | [0392-is-subsequence](https://github.com/vishalnagar26/leetcode.com/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishalnagar26/leetcode.com/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalnagar26/leetcode.com/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -201,6 +204,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/vishalnagar26/leetcode.com/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalnagar26/leetcode.com/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
