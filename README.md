@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalnagar26/leetcode.com/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vishalnagar26/leetcode.com/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -178,6 +181,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0234-palindrome-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0876-middle-of-the-linked-list) |
@@ -263,6 +267,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vishalnagar26/leetcode.com/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
