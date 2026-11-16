@@ -56,6 +56,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishalnagar26/leetcode.com/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalnagar26/leetcode.com/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
