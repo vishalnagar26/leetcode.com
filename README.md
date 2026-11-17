@@ -58,6 +58,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishalnagar26/leetcode.com/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vishalnagar26/leetcode.com/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishalnagar26/leetcode.com/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -71,6 +72,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vishalnagar26/leetcode.com/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishalnagar26/leetcode.com/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishalnagar26/leetcode.com/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -161,6 +163,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vishalnagar26/leetcode.com/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishalnagar26/leetcode.com/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
