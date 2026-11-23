@@ -16,6 +16,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
 | [1254-number-of-closed-islands](https://github.com/vishalnagar26/leetcode.com/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalnagar26/leetcode.com/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vishalnagar26/leetcode.com/tree/master/2073-time-needed-to-buy-tickets) |
@@ -144,6 +145,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vishalnagar26/leetcode.com/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0932-beautiful-array](https://github.com/vishalnagar26/leetcode.com/tree/master/0932-beautiful-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vishalnagar26/leetcode.com/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/vishalnagar26/leetcode.com/tree/master/2409-count-days-spent-together) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishalnagar26/leetcode.com/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vishalnagar26/leetcode.com/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vishalnagar26/leetcode.com/tree/master/3364-minimum-positive-sum-subarray) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -309,4 +312,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishalnagar26/leetcode.com/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishalnagar26/leetcode.com/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
