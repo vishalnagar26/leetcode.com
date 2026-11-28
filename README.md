@@ -34,6 +34,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalnagar26/leetcode.com/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishalnagar26/leetcode.com/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishalnagar26/leetcode.com/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/vishalnagar26/leetcode.com/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishalnagar26/leetcode.com/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -271,10 +273,12 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalnagar26/leetcode.com/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalnagar26/leetcode.com/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishalnagar26/leetcode.com/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishalnagar26/leetcode.com/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vishalnagar26/leetcode.com/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Queue
 |  |
